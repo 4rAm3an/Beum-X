@@ -1,0 +1,1053 @@
+--[[
+
+
+ /$$   /$$            /$$$$$$                         /$$$$$$                     
+| $$  | $$           /$$__  $$                       /$$__  $$                    
+| $$  | $$  /$$$$$$ | $$  \ $$         /$$$$$$/$$$$ |__/  \ $$  /$$$$$$  /$$$$$$$ 
+| $$$$$$$$ /$$__  $$| $$$$$$$$        | $$_  $$_  $$   /$$$$$/ |____  $$| $$__  $$
+|_____  $$| $$  \__/| $$__  $$        | $$ \ $$ \ $$  |___  $$  /$$$$$$$| $$  \ $$
+      | $$| $$      | $$  | $$        | $$ | $$ | $$ /$$  \ $$ /$$__  $$| $$  | $$
+      | $$| $$      | $$  | $$        | $$ | $$ | $$|  $$$$$$/|  $$$$$$$| $$  | $$
+      |__/|__/      |__/  |__/ /$$$$$$|__/ |__/ |__/ \______/  \_______/|__/  |__/
+                              |______/                                            
+                                                                                  
+                                                                                  
+                      Made By 4rA_m3an#5744
+
+]]--
+
+
+
+
+
+
+
+local ScreenGui = Instance.new("ScreenGui")
+local OpenMenuPurple = Instance.new("TextButton")
+local UICorner = Instance.new("UICorner")
+local Rainbow = Instance.new("Frame")
+local UICorner_2 = Instance.new("UICorner")
+local Nose345 = Instance.new("Frame")
+local UICorner_3 = Instance.new("UICorner")
+local Frame = Instance.new("Frame")
+local UIGradient = Instance.new("UIGradient")
+local closemenu = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
+local TextLabel = Instance.new("TextLabel")
+local TextLabel_2 = Instance.new("TextLabel")
+local Tabs = Instance.new("Frame")
+local UICorner_5 = Instance.new("UICorner")
+local Frame_2 = Instance.new("Frame")
+local MainP = Instance.new("TextButton")
+local UICorner_6 = Instance.new("UICorner")
+local MiscP = Instance.new("TextButton")
+local UICorner_7 = Instance.new("UICorner")
+local OtherScriptP = Instance.new("TextButton")
+local UICorner_8 = Instance.new("UICorner")
+local HomeP = Instance.new("TextButton")
+local UICorner_9 = Instance.new("UICorner")
+local ConfigP = Instance.new("TextButton")
+local UICorner_10 = Instance.new("UICorner")
+local HomeTabRainbow = Instance.new("Frame")
+local UserIcon = Instance.new("ImageLabel")
+local UICorner_11 = Instance.new("UICorner")
+local UICorner_12 = Instance.new("UICorner")
+local gghh = Instance.new("TextLabel")
+local gghh_2 = Instance.new("TextLabel")
+local ConfigTabRainbow = Instance.new("Frame")
+local TextButton = Instance.new("TextButton")
+local UICorner_13 = Instance.new("UICorner")
+local TextButton_2 = Instance.new("TextButton")
+local UICorner_14 = Instance.new("UICorner")
+local MainTabRainbow = Instance.new("Frame")
+local TextLabel_3 = Instance.new("TextLabel")
+local OpenMenuRainbow = Instance.new("TextButton")
+local UICorner_15 = Instance.new("UICorner")
+local Purple = Instance.new("Frame")
+local UICorner_16 = Instance.new("UICorner")
+local Nose345_2 = Instance.new("Frame")
+local UICorner_17 = Instance.new("UICorner")
+local Frame_3 = Instance.new("Frame")
+local UIGradient_2 = Instance.new("UIGradient")
+local closemenu_2 = Instance.new("TextButton")
+local UICorner_18 = Instance.new("UICorner")
+local TextLabel_4 = Instance.new("TextLabel")
+local TextLabel_5 = Instance.new("TextLabel")
+local Tabs_2 = Instance.new("Frame")
+local UICorner_19 = Instance.new("UICorner")
+local Frame_4 = Instance.new("Frame")
+local MainP_2 = Instance.new("TextButton")
+local UICorner_20 = Instance.new("UICorner")
+local MiscP_2 = Instance.new("TextButton")
+local UICorner_21 = Instance.new("UICorner")
+local OtherScriptP_2 = Instance.new("TextButton")
+local UICorner_22 = Instance.new("UICorner")
+local HomeP_2 = Instance.new("TextButton")
+local UICorner_23 = Instance.new("UICorner")
+local ConfigP_2 = Instance.new("TextButton")
+local UICorner_24 = Instance.new("UICorner")
+local HomeTabPurple = Instance.new("Frame")
+local UserIcon_2 = Instance.new("ImageLabel")
+local UICorner_25 = Instance.new("UICorner")
+local UICorner_26 = Instance.new("UICorner")
+local gghh_3 = Instance.new("TextLabel")
+local gghh_4 = Instance.new("TextLabel")
+local ConfigTabPurple = Instance.new("Frame")
+local TextButton_3 = Instance.new("TextButton")
+local UICorner_27 = Instance.new("UICorner")
+local TextButton_4 = Instance.new("TextButton")
+local UICorner_28 = Instance.new("UICorner")
+local MainTabPurple = Instance.new("Frame")
+local TextLabel_6 = Instance.new("TextLabel")
+
+--Properties:
+
+ScreenGui.Parent = game.Workspace
+
+OpenMenuPurple.Name = "OpenMenuPurple"
+OpenMenuPurple.Parent = ScreenGui
+OpenMenuPurple.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+OpenMenuPurple.BorderColor3 = Color3.fromRGB(126, 64, 147)
+OpenMenuPurple.BorderSizePixel = 3
+OpenMenuPurple.Position = UDim2.new(0.00505902199, 0, 0.907189548, 0)
+OpenMenuPurple.Size = UDim2.new(0, 107, 0, 35)
+OpenMenuPurple.Font = Enum.Font.Unknown
+OpenMenuPurple.Text = "Open"
+OpenMenuPurple.TextColor3 = Color3.fromRGB(126, 63, 147)
+OpenMenuPurple.TextScaled = true
+OpenMenuPurple.TextSize = 42.000
+OpenMenuPurple.TextWrapped = true
+
+UICorner.Parent = OpenMenuPurple
+
+Rainbow.Name = "Rainbow"
+Rainbow.Parent = ScreenGui
+Rainbow.Active = true
+Rainbow.AnchorPoint = Vector2.new(0.5, 0.5)
+Rainbow.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+Rainbow.BorderSizePixel = 0
+Rainbow.Position = UDim2.new(0.504000008, 0, 0.189999998, 0)
+Rainbow.Size = UDim2.new(0, 623, 0, 58)
+Rainbow.Visible = false
+
+UICorner_2.Parent = Rainbow
+
+Nose345.Name = "Nose345"
+Nose345.Parent = Rainbow
+Nose345.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+Nose345.BorderSizePixel = 0
+Nose345.Position = UDim2.new(-0.00132229773, 0, 0, 0)
+Nose345.Size = UDim2.new(0, 624, 0, 341)
+
+UICorner_3.Parent = Nose345
+
+Frame.Parent = Nose345
+Frame.BackgroundColor3 = Color3.fromRGB(200, 0, 3)
+Frame.BorderSizePixel = 0
+Frame.Position = UDim2.new(0, 0, 0.119733438, 0)
+Frame.Size = UDim2.new(0, 624, 0, 9)
+
+UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(0.49, Color3.fromRGB(161, 161, 161)), ColorSequenceKeypoint.new(0.49, Color3.fromRGB(156, 156, 156)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(19, 19, 19)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
+UIGradient.Offset = Vector2.new(0, 1)
+UIGradient.Parent = Frame
+
+closemenu.Name = "closemenu"
+closemenu.Parent = Frame
+closemenu.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+closemenu.BorderColor3 = Color3.fromRGB(126, 64, 147)
+closemenu.BorderSizePixel = 3
+closemenu.Position = UDim2.new(0.976049602, 0, -5.49150324, 0)
+closemenu.Size = UDim2.new(0, 30, 0, 30)
+closemenu.Font = Enum.Font.Unknown
+closemenu.Text = "X"
+closemenu.TextColor3 = Color3.fromRGB(255, 0, 3)
+closemenu.TextScaled = true
+closemenu.TextSize = 42.000
+closemenu.TextWrapped = true
+
+UICorner_4.Parent = closemenu
+
+TextLabel.Parent = Nose345
+TextLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.BorderSizePixel = 0
+TextLabel.Position = UDim2.new(-0.0141607821, 0, -0.00131368637, 0)
+TextLabel.Size = UDim2.new(0, 175, 0, 37)
+TextLabel.Font = Enum.Font.Unknown
+TextLabel.Text = "Beum X"
+TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.TextSize = 65.000
+TextLabel.TextWrapped = true
+
+TextLabel_2.Parent = Nose345
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_2.BackgroundTransparency = 1.000
+TextLabel_2.BorderSizePixel = 0
+TextLabel_2.Position = UDim2.new(-0.000238060951, 0, -0.00131368637, 0)
+TextLabel_2.Size = UDim2.new(0, 175, 0, 37)
+TextLabel_2.Font = Enum.Font.Unknown
+TextLabel_2.Text = "Beum X"
+TextLabel_2.TextColor3 = Color3.fromRGB(200, 0, 3)
+TextLabel_2.TextSize = 65.000
+TextLabel_2.TextWrapped = true
+
+Tabs.Name = "Tabs"
+Tabs.Parent = Nose345
+Tabs.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+Tabs.BorderSizePixel = 0
+Tabs.Position = UDim2.new(0.00132228166, 0, 0.141557351, 0)
+Tabs.Size = UDim2.new(0, 119, 0, 292)
+
+UICorner_5.Parent = Tabs
+
+Frame_2.Parent = Tabs
+Frame_2.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+Frame_2.BorderSizePixel = 0
+Frame_2.Position = UDim2.new(1, 0, 0.0053175576, 0)
+Frame_2.Size = UDim2.new(0, 5, 0, 290)
+
+MainP.Name = "MainP"
+MainP.Parent = Frame_2
+MainP.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+MainP.BorderColor3 = Color3.fromRGB(126, 64, 147)
+MainP.BorderSizePixel = 3
+MainP.Position = UDim2.new(-22.3327732, 0, 0.233494878, 0)
+MainP.Size = UDim2.new(0, 103, 0, 35)
+MainP.Font = Enum.Font.Unknown
+MainP.Text = "Main"
+MainP.TextColor3 = Color3.fromRGB(200, 0, 3)
+MainP.TextScaled = true
+MainP.TextSize = 42.000
+MainP.TextWrapped = true
+
+UICorner_6.CornerRadius = UDim.new(0, 5)
+UICorner_6.Parent = MainP
+
+MiscP.Name = "MiscP"
+MiscP.Parent = Frame_2
+MiscP.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+MiscP.BorderColor3 = Color3.fromRGB(126, 64, 147)
+MiscP.BorderSizePixel = 3
+MiscP.Position = UDim2.new(-22.3327732, 0, 0.438273072, 0)
+MiscP.Size = UDim2.new(0, 103, 0, 35)
+MiscP.Font = Enum.Font.Unknown
+MiscP.Text = "Misc"
+MiscP.TextColor3 = Color3.fromRGB(200, 0, 3)
+MiscP.TextScaled = true
+MiscP.TextSize = 42.000
+MiscP.TextWrapped = true
+
+UICorner_7.CornerRadius = UDim.new(0, 5)
+UICorner_7.Parent = MiscP
+
+OtherScriptP.Name = "OtherScriptP"
+OtherScriptP.Parent = Frame_2
+OtherScriptP.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+OtherScriptP.BorderColor3 = Color3.fromRGB(126, 64, 147)
+OtherScriptP.BorderSizePixel = 3
+OtherScriptP.Position = UDim2.new(-22.3327732, 0, 0.636225283, 0)
+OtherScriptP.Size = UDim2.new(0, 103, 0, 35)
+OtherScriptP.Font = Enum.Font.Unknown
+OtherScriptP.Text = "Others   Scripts"
+OtherScriptP.TextColor3 = Color3.fromRGB(200, 0, 3)
+OtherScriptP.TextScaled = true
+OtherScriptP.TextSize = 17.000
+OtherScriptP.TextWrapped = true
+
+UICorner_8.CornerRadius = UDim.new(0, 5)
+UICorner_8.Parent = OtherScriptP
+
+HomeP.Name = "HomeP"
+HomeP.Parent = Frame_2
+HomeP.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+HomeP.BorderColor3 = Color3.fromRGB(126, 64, 147)
+HomeP.BorderSizePixel = 3
+HomeP.Position = UDim2.new(-22.3327732, 0, 0.0355426669, 0)
+HomeP.Size = UDim2.new(0, 103, 0, 35)
+HomeP.Font = Enum.Font.Unknown
+HomeP.Text = "Home"
+HomeP.TextColor3 = Color3.fromRGB(200, 0, 3)
+HomeP.TextScaled = true
+HomeP.TextSize = 42.000
+HomeP.TextWrapped = true
+
+UICorner_9.CornerRadius = UDim.new(0, 5)
+UICorner_9.Parent = HomeP
+
+ConfigP.Name = "ConfigP"
+ConfigP.Parent = Frame_2
+ConfigP.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+ConfigP.BorderColor3 = Color3.fromRGB(200, 0, 3)
+ConfigP.BorderSizePixel = 3
+ConfigP.Position = UDim2.new(-22.3327732, 0, 0.820384383, 0)
+ConfigP.Size = UDim2.new(0, 103, 0, 35)
+ConfigP.Font = Enum.Font.Unknown
+ConfigP.Text = "Config"
+ConfigP.TextColor3 = Color3.fromRGB(200, 0, 3)
+ConfigP.TextScaled = true
+ConfigP.TextSize = 42.000
+ConfigP.TextWrapped = true
+
+UICorner_10.CornerRadius = UDim.new(0, 5)
+UICorner_10.Parent = ConfigP
+
+HomeTabRainbow.Name = "HomeTabRainbow"
+HomeTabRainbow.Parent = Frame_2
+HomeTabRainbow.BackgroundColor3 = Color3.fromRGB(255, 0, 3)
+HomeTabRainbow.Position = UDim2.new(9.2677002, 0, 0.12864612, 0)
+HomeTabRainbow.Size = UDim2.new(0, 178, 0, 168)
+
+UserIcon.Name = "UserIcon"
+UserIcon.Parent = HomeTabRainbow
+UserIcon.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
+UserIcon.BorderColor3 = Color3.fromRGB(108, 53, 126)
+UserIcon.BorderSizePixel = 5
+UserIcon.Position = UDim2.new(0.026288271, 0, 0.0268065687, 0)
+UserIcon.Size = UDim2.new(0, 168, 0, 158)
+UserIcon.Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
+
+UICorner_11.CornerRadius = UDim.new(9, 0)
+UICorner_11.Parent = UserIcon
+
+UICorner_12.CornerRadius = UDim.new(9, 0)
+UICorner_12.Parent = HomeTabRainbow
+
+gghh.Name = "gghh"
+gghh.Parent = HomeTabRainbow
+gghh.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+gghh.BackgroundTransparency = 1.000
+gghh.BorderColor3 = Color3.fromRGB(27, 42, 53)
+gghh.BorderSizePixel = 0
+gghh.Position = UDim2.new(1.09323752, 0, 0.33143276, 0)
+gghh.Size = UDim2.new(0, 179, 0, 48)
+gghh.Font = Enum.Font.Unknown
+gghh.Text = "Welcome to Beum X                                                                                                              A  Da Hood Script"
+gghh.TextColor3 = Color3.fromRGB(255, 255, 255)
+gghh.TextScaled = true
+gghh.TextSize = 14.000
+gghh.TextTransparency = 0.810
+gghh.TextWrapped = true
+
+gghh_2.Name = "gghh"
+gghh_2.Parent = HomeTabRainbow
+gghh_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+gghh_2.BackgroundTransparency = 1.000
+gghh_2.BorderColor3 = Color3.fromRGB(27, 42, 53)
+gghh_2.BorderSizePixel = 0
+gghh_2.Position = UDim2.new(-0.167546079, 0, 1.27281559, 0)
+gghh_2.Size = UDim2.new(0, 151, 0, 24)
+gghh_2.Font = Enum.Font.Unknown
+gghh_2.Text = "Made By 4rA_m3an#5744"
+gghh_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+gghh_2.TextSize = 12.000
+gghh_2.TextTransparency = 0.810
+gghh_2.TextWrapped = true
+
+ConfigTabRainbow.Name = "ConfigTabRainbow"
+ConfigTabRainbow.Parent = Frame_2
+ConfigTabRainbow.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ConfigTabRainbow.BackgroundTransparency = 1.000
+ConfigTabRainbow.Position = UDim2.new(1.00032055, 0, 0.008180812, 0)
+ConfigTabRainbow.Size = UDim2.new(0, 499, 0, 290)
+ConfigTabRainbow.Visible = false
+
+TextButton.Parent = ConfigTabRainbow
+TextButton.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+TextButton.Position = UDim2.new(0.681362748, 0, 0.0172413792, 0)
+TextButton.Size = UDim2.new(0, 152, 0, 50)
+TextButton.Font = Enum.Font.Unknown
+TextButton.Text = "Toggle Purple Color"
+TextButton.TextColor3 = Color3.fromRGB(108, 53, 126)
+TextButton.TextScaled = true
+TextButton.TextSize = 14.000
+TextButton.TextWrapped = true
+
+UICorner_13.Parent = TextButton
+
+TextButton_2.Parent = ConfigTabRainbow
+TextButton_2.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+TextButton_2.Position = UDim2.new(0.324649334, 0, 0.0172413792, 0)
+TextButton_2.Size = UDim2.new(0, 152, 0, 50)
+TextButton_2.Font = Enum.Font.Unknown
+TextButton_2.Text = "Toggle Rainbow Color"
+TextButton_2.TextColor3 = Color3.fromRGB(253, 0, 4)
+TextButton_2.TextScaled = true
+TextButton_2.TextSize = 14.000
+TextButton_2.TextWrapped = true
+
+UICorner_14.Parent = TextButton_2
+
+MainTabRainbow.Name = "MainTabRainbow"
+MainTabRainbow.Parent = Frame_2
+MainTabRainbow.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MainTabRainbow.BackgroundTransparency = 1.000
+MainTabRainbow.Position = UDim2.new(1.00032055, 0, 0.008180812, 0)
+MainTabRainbow.Size = UDim2.new(0, 499, 0, 290)
+MainTabRainbow.Visible = false
+
+TextLabel_3.Parent = MainTabRainbow
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.Size = UDim2.new(0, 200, 0, 50)
+TextLabel_3.Font = Enum.Font.SourceSans
+TextLabel_3.Text = "Hola"
+TextLabel_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_3.TextScaled = true
+TextLabel_3.TextSize = 14.000
+TextLabel_3.TextWrapped = true
+
+OpenMenuRainbow.Name = "OpenMenuRainbow"
+OpenMenuRainbow.Parent = ScreenGui
+OpenMenuRainbow.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+OpenMenuRainbow.BorderColor3 = Color3.fromRGB(126, 64, 147)
+OpenMenuRainbow.BorderSizePixel = 3
+OpenMenuRainbow.Position = UDim2.new(0.00505902199, 0, 0.907189548, 0)
+OpenMenuRainbow.Size = UDim2.new(0, 107, 0, 35)
+OpenMenuRainbow.Visible = false
+OpenMenuRainbow.Font = Enum.Font.Unknown
+OpenMenuRainbow.Text = "Open"
+OpenMenuRainbow.TextColor3 = Color3.fromRGB(200, 0, 3)
+OpenMenuRainbow.TextScaled = true
+OpenMenuRainbow.TextSize = 42.000
+OpenMenuRainbow.TextWrapped = true
+
+UICorner_15.Parent = OpenMenuRainbow
+
+Purple.Name = "Purple"
+Purple.Parent = ScreenGui
+Purple.Active = true
+Purple.AnchorPoint = Vector2.new(0.5, 0.5)
+Purple.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+Purple.BorderSizePixel = 0
+Purple.Position = UDim2.new(0.504000008, 0, 0.189999998, 0)
+Purple.Size = UDim2.new(0, 623, 0, 58)
+Purple.Visible = false
+
+UICorner_16.Parent = Purple
+
+Nose345_2.Name = "Nose345"
+Nose345_2.Parent = Purple
+Nose345_2.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+Nose345_2.BorderSizePixel = 0
+Nose345_2.Position = UDim2.new(-0.00132229773, 0, 0, 0)
+Nose345_2.Size = UDim2.new(0, 624, 0, 341)
+
+UICorner_17.Parent = Nose345_2
+
+Frame_3.Parent = Nose345_2
+Frame_3.BackgroundColor3 = Color3.fromRGB(157, 33, 198)
+Frame_3.BorderSizePixel = 0
+Frame_3.Position = UDim2.new(0, 0, 0.119733438, 0)
+Frame_3.Size = UDim2.new(0, 624, 0, 9)
+
+UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(0.49, Color3.fromRGB(161, 161, 161)), ColorSequenceKeypoint.new(0.49, Color3.fromRGB(156, 156, 156)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(19, 19, 19)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
+UIGradient_2.Offset = Vector2.new(0, 1)
+UIGradient_2.Parent = Frame_3
+
+closemenu_2.Name = "closemenu"
+closemenu_2.Parent = Frame_3
+closemenu_2.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+closemenu_2.BorderColor3 = Color3.fromRGB(126, 64, 147)
+closemenu_2.BorderSizePixel = 3
+closemenu_2.Position = UDim2.new(0.976049602, 0, -5.49150324, 0)
+closemenu_2.Size = UDim2.new(0, 30, 0, 30)
+closemenu_2.Font = Enum.Font.Unknown
+closemenu_2.Text = "X"
+closemenu_2.TextColor3 = Color3.fromRGB(119, 25, 150)
+closemenu_2.TextScaled = true
+closemenu_2.TextSize = 42.000
+closemenu_2.TextWrapped = true
+
+UICorner_18.Parent = closemenu_2
+
+TextLabel_4.Parent = Nose345_2
+TextLabel_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_4.BackgroundTransparency = 1.000
+TextLabel_4.BorderSizePixel = 0
+TextLabel_4.Position = UDim2.new(-0.0141607821, 0, -0.00131368637, 0)
+TextLabel_4.Size = UDim2.new(0, 175, 0, 37)
+TextLabel_4.Font = Enum.Font.Unknown
+TextLabel_4.Text = "Beum X"
+TextLabel_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_4.TextSize = 65.000
+TextLabel_4.TextWrapped = true
+
+TextLabel_5.Parent = Nose345_2
+TextLabel_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_5.BackgroundTransparency = 1.000
+TextLabel_5.BorderSizePixel = 0
+TextLabel_5.Position = UDim2.new(-0.000238060951, 0, -0.00131368637, 0)
+TextLabel_5.Size = UDim2.new(0, 175, 0, 37)
+TextLabel_5.Font = Enum.Font.Unknown
+TextLabel_5.Text = "Beum X"
+TextLabel_5.TextColor3 = Color3.fromRGB(119, 25, 150)
+TextLabel_5.TextSize = 65.000
+TextLabel_5.TextWrapped = true
+
+Tabs_2.Name = "Tabs"
+Tabs_2.Parent = Nose345_2
+Tabs_2.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+Tabs_2.BorderSizePixel = 0
+Tabs_2.Position = UDim2.new(0.00132228166, 0, 0.141557351, 0)
+Tabs_2.Size = UDim2.new(0, 119, 0, 292)
+
+UICorner_19.Parent = Tabs_2
+
+Frame_4.Parent = Tabs_2
+Frame_4.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+Frame_4.BorderSizePixel = 0
+Frame_4.Position = UDim2.new(1, 0, 0.0053175576, 0)
+Frame_4.Size = UDim2.new(0, 5, 0, 290)
+
+MainP_2.Name = "MainP"
+MainP_2.Parent = Frame_4
+MainP_2.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+MainP_2.BorderColor3 = Color3.fromRGB(126, 64, 147)
+MainP_2.BorderSizePixel = 3
+MainP_2.Position = UDim2.new(-22.3327732, 0, 0.233494878, 0)
+MainP_2.Size = UDim2.new(0, 103, 0, 35)
+MainP_2.Font = Enum.Font.Unknown
+MainP_2.Text = "Main"
+MainP_2.TextColor3 = Color3.fromRGB(119, 25, 150)
+MainP_2.TextScaled = true
+MainP_2.TextSize = 42.000
+MainP_2.TextWrapped = true
+
+UICorner_20.CornerRadius = UDim.new(0, 5)
+UICorner_20.Parent = MainP_2
+
+MiscP_2.Name = "MiscP"
+MiscP_2.Parent = Frame_4
+MiscP_2.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+MiscP_2.BorderColor3 = Color3.fromRGB(126, 64, 147)
+MiscP_2.BorderSizePixel = 3
+MiscP_2.Position = UDim2.new(-22.3327732, 0, 0.438273072, 0)
+MiscP_2.Size = UDim2.new(0, 103, 0, 35)
+MiscP_2.Font = Enum.Font.Unknown
+MiscP_2.Text = "Misc"
+MiscP_2.TextColor3 = Color3.fromRGB(119, 25, 150)
+MiscP_2.TextScaled = true
+MiscP_2.TextSize = 42.000
+MiscP_2.TextWrapped = true
+
+UICorner_21.CornerRadius = UDim.new(0, 5)
+UICorner_21.Parent = MiscP_2
+
+OtherScriptP_2.Name = "OtherScriptP"
+OtherScriptP_2.Parent = Frame_4
+OtherScriptP_2.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+OtherScriptP_2.BorderColor3 = Color3.fromRGB(126, 64, 147)
+OtherScriptP_2.BorderSizePixel = 3
+OtherScriptP_2.Position = UDim2.new(-22.3327732, 0, 0.636225283, 0)
+OtherScriptP_2.Size = UDim2.new(0, 103, 0, 35)
+OtherScriptP_2.Font = Enum.Font.Unknown
+OtherScriptP_2.Text = "Others   Scripts"
+OtherScriptP_2.TextColor3 = Color3.fromRGB(119, 25, 150)
+OtherScriptP_2.TextScaled = true
+OtherScriptP_2.TextSize = 17.000
+OtherScriptP_2.TextWrapped = true
+
+UICorner_22.CornerRadius = UDim.new(0, 5)
+UICorner_22.Parent = OtherScriptP_2
+
+HomeP_2.Name = "HomeP"
+HomeP_2.Parent = Frame_4
+HomeP_2.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+HomeP_2.BorderColor3 = Color3.fromRGB(126, 64, 147)
+HomeP_2.BorderSizePixel = 3
+HomeP_2.Position = UDim2.new(-22.3327732, 0, 0.0355426669, 0)
+HomeP_2.Size = UDim2.new(0, 103, 0, 35)
+HomeP_2.Font = Enum.Font.Unknown
+HomeP_2.Text = "Home"
+HomeP_2.TextColor3 = Color3.fromRGB(119, 25, 150)
+HomeP_2.TextScaled = true
+HomeP_2.TextSize = 42.000
+HomeP_2.TextWrapped = true
+
+UICorner_23.CornerRadius = UDim.new(0, 5)
+UICorner_23.Parent = HomeP_2
+
+ConfigP_2.Name = "ConfigP"
+ConfigP_2.Parent = Frame_4
+ConfigP_2.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+ConfigP_2.BorderColor3 = Color3.fromRGB(200, 0, 3)
+ConfigP_2.BorderSizePixel = 3
+ConfigP_2.Position = UDim2.new(-22.3327732, 0, 0.820384383, 0)
+ConfigP_2.Size = UDim2.new(0, 103, 0, 35)
+ConfigP_2.Font = Enum.Font.Unknown
+ConfigP_2.Text = "Config"
+ConfigP_2.TextColor3 = Color3.fromRGB(119, 25, 150)
+ConfigP_2.TextScaled = true
+ConfigP_2.TextSize = 42.000
+ConfigP_2.TextWrapped = true
+
+UICorner_24.CornerRadius = UDim.new(0, 5)
+UICorner_24.Parent = ConfigP_2
+
+HomeTabPurple.Name = "HomeTabPurple"
+HomeTabPurple.Parent = Frame_4
+HomeTabPurple.BackgroundColor3 = Color3.fromRGB(119, 25, 150)
+HomeTabPurple.Position = UDim2.new(9.2677002, 0, 0.12864612, 0)
+HomeTabPurple.Size = UDim2.new(0, 178, 0, 168)
+
+UserIcon_2.Name = "UserIcon"
+UserIcon_2.Parent = HomeTabPurple
+UserIcon_2.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
+UserIcon_2.BorderColor3 = Color3.fromRGB(108, 53, 126)
+UserIcon_2.BorderSizePixel = 5
+UserIcon_2.Position = UDim2.new(0.026288271, 0, 0.0268065687, 0)
+UserIcon_2.Size = UDim2.new(0, 168, 0, 158)
+UserIcon_2.Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
+
+UICorner_25.CornerRadius = UDim.new(9, 0)
+UICorner_25.Parent = UserIcon_2
+
+UICorner_26.CornerRadius = UDim.new(9, 0)
+UICorner_26.Parent = HomeTabPurple
+
+gghh_3.Name = "gghh"
+gghh_3.Parent = HomeTabPurple
+gghh_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+gghh_3.BackgroundTransparency = 1.000
+gghh_3.BorderColor3 = Color3.fromRGB(27, 42, 53)
+gghh_3.BorderSizePixel = 0
+gghh_3.Position = UDim2.new(1.09323752, 0, 0.33143276, 0)
+gghh_3.Size = UDim2.new(0, 179, 0, 48)
+gghh_3.Font = Enum.Font.Unknown
+gghh_3.Text = "Welcome to Beum X                                                                                                              A  Da Hood Script"
+gghh_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+gghh_3.TextScaled = true
+gghh_3.TextSize = 14.000
+gghh_3.TextTransparency = 0.810
+gghh_3.TextWrapped = true
+
+gghh_4.Name = "gghh"
+gghh_4.Parent = HomeTabPurple
+gghh_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+gghh_4.BackgroundTransparency = 1.000
+gghh_4.BorderColor3 = Color3.fromRGB(27, 42, 53)
+gghh_4.BorderSizePixel = 0
+gghh_4.Position = UDim2.new(-0.167546079, 0, 1.27281559, 0)
+gghh_4.Size = UDim2.new(0, 151, 0, 24)
+gghh_4.Font = Enum.Font.Unknown
+gghh_4.Text = "Made By 4rA_m3an#5744"
+gghh_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+gghh_4.TextSize = 12.000
+gghh_4.TextTransparency = 0.810
+gghh_4.TextWrapped = true
+
+ConfigTabPurple.Name = "ConfigTabPurple"
+ConfigTabPurple.Parent = Frame_4
+ConfigTabPurple.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ConfigTabPurple.BackgroundTransparency = 1.000
+ConfigTabPurple.Position = UDim2.new(1.00032055, 0, 0.008180812, 0)
+ConfigTabPurple.Size = UDim2.new(0, 499, 0, 290)
+ConfigTabPurple.Visible = false
+
+TextButton_3.Parent = ConfigTabPurple
+TextButton_3.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+TextButton_3.Position = UDim2.new(0.681362748, 0, 0.0172413792, 0)
+TextButton_3.Size = UDim2.new(0, 152, 0, 50)
+TextButton_3.Font = Enum.Font.Unknown
+TextButton_3.Text = "Toggle Purple Color"
+TextButton_3.TextColor3 = Color3.fromRGB(108, 53, 126)
+TextButton_3.TextScaled = true
+TextButton_3.TextSize = 14.000
+TextButton_3.TextWrapped = true
+
+UICorner_27.Parent = TextButton_3
+
+TextButton_4.Parent = ConfigTabPurple
+TextButton_4.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+TextButton_4.Position = UDim2.new(0.324649334, 0, 0.0172413792, 0)
+TextButton_4.Size = UDim2.new(0, 152, 0, 50)
+TextButton_4.Font = Enum.Font.Unknown
+TextButton_4.Text = "Toggle Rainbow Color"
+TextButton_4.TextColor3 = Color3.fromRGB(253, 0, 4)
+TextButton_4.TextScaled = true
+TextButton_4.TextSize = 14.000
+TextButton_4.TextWrapped = true
+
+UICorner_28.Parent = TextButton_4
+
+MainTabPurple.Name = "MainTabPurple"
+MainTabPurple.Parent = Frame_4
+MainTabPurple.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MainTabPurple.BackgroundTransparency = 1.000
+MainTabPurple.Position = UDim2.new(1.00032055, 0, 0.008180812, 0)
+MainTabPurple.Size = UDim2.new(0, 499, 0, 290)
+MainTabPurple.Visible = false
+
+TextLabel_6.Parent = MainTabPurple
+TextLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_6.Size = UDim2.new(0, 200, 0, 50)
+TextLabel_6.Font = Enum.Font.SourceSans
+TextLabel_6.Text = "Hola"
+TextLabel_6.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_6.TextScaled = true
+TextLabel_6.TextSize = 14.000
+TextLabel_6.TextWrapped = true
+
+-- Scripts:
+
+local function RDKJJ_fake_script() -- OpenMenuPurple.LocalScript 
+	local script = Instance.new('LocalScript', OpenMenuPurple)
+
+	local player = game.Players.LocalPlayer
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		player.PlayerGui.ScreenGui.Purple.Visible = true
+	end)
+end
+coroutine.wrap(RDKJJ_fake_script)()
+local function AVFPXRF_fake_script() -- Rainbow.LocalScript 
+	local script = Instance.new('LocalScript', Rainbow)
+
+	frame = script.Parent.Parent.Rainbow
+	frame.Draggable = true
+	frame.Selectable = true
+	frame.Active = true
+	
+end
+coroutine.wrap(AVFPXRF_fake_script)()
+local function UFSGKY_fake_script() -- closemenu.LocalScript 
+	local script = Instance.new('LocalScript', closemenu)
+
+	local player = game.Players.LocalPlayer
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		player.PlayerGui.ScreenGui.Rainbow.Visible = false
+	end)
+end
+coroutine.wrap(UFSGKY_fake_script)()
+local function SNWOEXB_fake_script() -- closemenu.LocalScript 
+	local script = Instance.new('LocalScript', closemenu)
+
+	function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
+	
+	counter = 0
+	
+	while wait(0.1)do
+		script.Parent.TextColor3 = Color3.fromHSV(zigzag(counter),1,1)
+	
+		counter = counter + 0.01
+	end
+end
+coroutine.wrap(SNWOEXB_fake_script)()
+local function HKJSIH_fake_script() -- Frame.LocalScript 
+	local script = Instance.new('LocalScript', Frame)
+
+	function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
+	
+	counter = 0
+	
+	while wait(0.1)do
+		script.Parent.BackgroundColor3 = Color3.fromHSV(zigzag(counter),1,1)
+	
+		counter = counter + 0.01
+	end
+end
+coroutine.wrap(HKJSIH_fake_script)()
+local function DGVBYES_fake_script() -- TextLabel_2.LocalScript 
+	local script = Instance.new('LocalScript', TextLabel_2)
+
+	function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
+	
+	counter = 0
+	
+	while wait(0.1)do
+		script.Parent.TextColor3 = Color3.fromHSV(zigzag(counter),1,1)
+	
+		counter = counter + 0.01
+	end
+end
+coroutine.wrap(DGVBYES_fake_script)()
+local function BBGWOCC_fake_script() -- MainP.Rainbow 
+	local script = Instance.new('LocalScript', MainP)
+
+	function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
+	
+	counter = 0
+	
+	while wait(0.1)do
+		script.Parent.TextColor3 = Color3.fromHSV(zigzag(counter),1,1)
+	
+		counter = counter + 0.01
+	end
+end
+coroutine.wrap(BBGWOCC_fake_script)()
+local function BIQFIUZ_fake_script() -- MainP.LocalScript 
+	local script = Instance.new('LocalScript', MainP)
+
+	script.Parent.MouseButton1Down:connect(function()
+		script.Parent.Parent.HomeTabRainbow.Visible = false
+		script.Parent.Parent.ConfigTabRainbow.Visible = false
+		script.Parent.Parent.MainTabRainbow.Visible = true
+	end)
+	
+end
+coroutine.wrap(BIQFIUZ_fake_script)()
+local function HNGCIJF_fake_script() -- MiscP.Rainbow 
+	local script = Instance.new('LocalScript', MiscP)
+
+	function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
+	
+	counter = 0
+	
+	while wait(0.1)do
+		script.Parent.TextColor3 = Color3.fromHSV(zigzag(counter),1,1)
+	
+		counter = counter + 0.01
+	end
+end
+coroutine.wrap(HNGCIJF_fake_script)()
+local function KEMVBRO_fake_script() -- OtherScriptP.Rainbow 
+	local script = Instance.new('LocalScript', OtherScriptP)
+
+	function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
+	
+	counter = 0
+	
+	while wait(0.1)do
+		script.Parent.TextColor3 = Color3.fromHSV(zigzag(counter),1,1)
+	
+		counter = counter + 0.01
+	end
+end
+coroutine.wrap(KEMVBRO_fake_script)()
+local function XBVV_fake_script() -- HomeP.LocalScript 
+	local script = Instance.new('LocalScript', HomeP)
+
+	script.Parent.MouseButton1Down:connect(function()
+		script.Parent.Parent.HomeTabRainbow.Visible = true
+		script.Parent.Parent.ConfigTabRainbow.Visible = false
+		script.Parent.Parent.MainTabPurple.Visible = false
+	end)
+end
+coroutine.wrap(XBVV_fake_script)()
+local function LXXLIQX_fake_script() -- HomeP.Rainbow 
+	local script = Instance.new('LocalScript', HomeP)
+
+	function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
+	
+	counter = 0
+	
+	while wait(0.1)do
+		script.Parent.TextColor3 = Color3.fromHSV(zigzag(counter),1,1)
+	
+		counter = counter + 0.01
+	end
+end
+coroutine.wrap(LXXLIQX_fake_script)()
+local function LAMJW_fake_script() -- ConfigP.LocalScript 
+	local script = Instance.new('LocalScript', ConfigP)
+
+	script.Parent.MouseButton1Down:connect(function()
+		script.Parent.Parent.HomeTabRainbow.Visible = false
+		script.Parent.Parent.ConfigTabRainbow.Visible = true
+		script.Parent.Parent.MainTabPurple.Visible = false
+	end)
+end
+coroutine.wrap(LAMJW_fake_script)()
+local function CHSRL_fake_script() -- ConfigP.Rainbow 
+	local script = Instance.new('LocalScript', ConfigP)
+
+	function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
+	
+	counter = 0
+	
+	while wait(0.1)do
+		script.Parent.TextColor3 = Color3.fromHSV(zigzag(counter),1,1)
+	
+		counter = counter + 0.01
+	end
+end
+coroutine.wrap(CHSRL_fake_script)()
+local function PQBXAZ_fake_script() -- UserIcon.LocalScript 
+	local script = Instance.new('LocalScript', UserIcon)
+
+	local ImageLabel = script.Parent
+	
+	local Foto = game.Players:GetUserThumbnailAsync(game.Players.LocalPlayer.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size100x100)
+	
+	ImageLabel.Image = Foto
+end
+coroutine.wrap(PQBXAZ_fake_script)()
+local function UBLJMKK_fake_script() -- HomeTabRainbow.LocalScript 
+	local script = Instance.new('LocalScript', HomeTabRainbow)
+
+	function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
+	
+	counter = 0
+	
+	while wait(0.1)do
+		script.Parent.BackgroundColor3 = Color3.fromHSV(zigzag(counter),1,1)
+	
+		counter = counter + 0.01
+	end
+end
+coroutine.wrap(UBLJMKK_fake_script)()
+local function WVUW_fake_script() -- TextButton.LocalScript 
+	local script = Instance.new('LocalScript', TextButton)
+
+	local player = game.Players.LocalPlayer
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		player.PlayerGui.ScreenGui.Rainbow.Visible = false
+		player.PlayerGui.ScreenGui.OpenMenuRainbow.Visible = false
+		player.PlayerGui.ScreenGui.Purple.Visible = true
+		player.PlayerGui.ScreenGui.OpenMenuPurple.Visible = true
+	end)
+end
+coroutine.wrap(WVUW_fake_script)()
+local function WNVMSYZ_fake_script() -- TextButton_2.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_2)
+
+	local player = game.Players.LocalPlayer
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		player.PlayerGui.ScreenGui.Rainbow.Visible = true
+		player.PlayerGui.ScreenGui.OpenMenuRainbow.Visible = true
+		player.PlayerGui.ScreenGui.Purple.Visible = false
+		player.PlayerGui.ScreenGui.OpenMenuPurple.Visible = false
+	end)
+end
+coroutine.wrap(WNVMSYZ_fake_script)()
+local function JOIZQ_fake_script() -- TextButton_2.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_2)
+
+	function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
+	
+	counter = 0
+	
+	while wait(0.1)do
+		script.Parent.TextColor3 = Color3.fromHSV(zigzag(counter),1,1)
+	
+		counter = counter + 0.01
+	end
+end
+coroutine.wrap(JOIZQ_fake_script)()
+local function AQPD_fake_script() -- OpenMenuRainbow.LocalScript 
+	local script = Instance.new('LocalScript', OpenMenuRainbow)
+
+	local player = game.Players.LocalPlayer
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		player.PlayerGui.ScreenGui.Rainbow.Visible = true
+	end)
+end
+coroutine.wrap(AQPD_fake_script)()
+local function UDVNBUO_fake_script() -- OpenMenuRainbow.LocalScript 
+	local script = Instance.new('LocalScript', OpenMenuRainbow)
+
+	function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
+	
+	counter = 0
+	
+	while wait(0.1)do
+		script.Parent.TextColor3 = Color3.fromHSV(zigzag(counter),1,1)
+	
+		counter = counter + 0.01
+	end
+end
+coroutine.wrap(UDVNBUO_fake_script)()
+local function HATEX_fake_script() -- Purple.LocalScript 
+	local script = Instance.new('LocalScript', Purple)
+
+	frame = script.Parent.Parent.Purple
+	frame.Draggable = true
+	frame.Selectable = true
+	frame.Active = true
+	
+end
+coroutine.wrap(HATEX_fake_script)()
+local function GGBGN_fake_script() -- closemenu_2.LocalScript 
+	local script = Instance.new('LocalScript', closemenu_2)
+
+	local player = game.Players.LocalPlayer
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		player.PlayerGui.ScreenGui.Purple.Visible = false
+	end)
+end
+coroutine.wrap(GGBGN_fake_script)()
+local function NFRLP_fake_script() -- MainP_2.LocalScript 
+	local script = Instance.new('LocalScript', MainP_2)
+
+	script.Parent.MouseButton1Down:connect(function()
+		script.Parent.Parent.HomeTabPurple.Visible = false
+		script.Parent.Parent.ConfigTabPurple.Visible = false
+		script.Parent.Parent.MainTabPurple.Visible = true
+	end)
+	
+end
+coroutine.wrap(NFRLP_fake_script)()
+local function VWKR_fake_script() -- HomeP_2.LocalScript 
+	local script = Instance.new('LocalScript', HomeP_2)
+
+	script.Parent.MouseButton1Down:connect(function()
+		script.Parent.Parent.HomeTabPurple.Visible = true
+		script.Parent.Parent.ConfigTabPurple.Visible = false
+		script.Parent.Parent.MainTabPurple.Visible = false
+	end)
+end
+coroutine.wrap(VWKR_fake_script)()
+local function AVBGRE_fake_script() -- ConfigP_2.LocalScript 
+	local script = Instance.new('LocalScript', ConfigP_2)
+
+	script.Parent.MouseButton1Down:connect(function()
+		script.Parent.Parent.HomeTabPurple.Visible = false
+		script.Parent.Parent.ConfigTabPurple.Visible = true
+		script.Parent.Parent.MainTabPurple.Visible = false
+	end)
+end
+coroutine.wrap(AVBGRE_fake_script)()
+local function ZUECHY_fake_script() -- UserIcon_2.LocalScript 
+	local script = Instance.new('LocalScript', UserIcon_2)
+
+	local ImageLabel = script.Parent
+	
+	local Foto = game.Players:GetUserThumbnailAsync(game.Players.LocalPlayer.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size100x100)
+	
+	ImageLabel.Image = Foto
+end
+coroutine.wrap(ZUECHY_fake_script)()
+local function YHTCG_fake_script() -- TextButton_3.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_3)
+
+	local player = game.Players.LocalPlayer
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		player.PlayerGui.ScreenGui.Rainbow.Visible = false
+		player.PlayerGui.ScreenGui.OpenMenuRainbow.Visible = false
+		player.PlayerGui.ScreenGui.Purple.Visible = true
+		player.PlayerGui.ScreenGui.OpenMenuPurple.Visible = true
+	end)
+end
+coroutine.wrap(YHTCG_fake_script)()
+local function VUGQEK_fake_script() -- TextButton_4.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_4)
+
+	local player = game.Players.LocalPlayer
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		player.PlayerGui.ScreenGui.Rainbow.Visible = true
+		player.PlayerGui.ScreenGui.OpenMenuRainbow.Visible = true
+		player.PlayerGui.ScreenGui.Purple.Visible = false
+		player.PlayerGui.ScreenGui.OpenMenuPurple.Visible = false
+	end)
+end
+coroutine.wrap(VUGQEK_fake_script)()
+local function QLPLF_fake_script() -- TextButton_4.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_4)
+
+	function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
+	
+	counter = 0
+	
+	while wait(0.1)do
+		script.Parent.TextColor3 = Color3.fromHSV(zigzag(counter),1,1)
+	
+		counter = counter + 0.01
+	end
+end
+coroutine.wrap(QLPLF_fake_script)()
